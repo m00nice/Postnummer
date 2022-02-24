@@ -12,7 +12,7 @@ public class Main {
 
         ArrayList<PostInfo> arrayList = new ArrayList<>();
 
-        arrayList.add(new PostInfo		(	"	800	"	,	"	Høje Taastrup	"	)	);
+        arrayList.add(new PostInfo		(	"	800	"	,	"Høje Taastrup"	)	);
         arrayList.add(new PostInfo		(	"	900	"	,	"	København C	"	)	);
         arrayList.add(new PostInfo		(	"	917	"	,	"	Københavns Pakkecent	"	)	);
         arrayList.add(new PostInfo		(	"	960	"	,	"	Udland	"	)	);
@@ -1112,8 +1112,8 @@ public class Main {
         arrayList.add(new PostInfo		(	"	9900	"	,	"	Frederikshavn	"	)	);
         arrayList.add(new PostInfo		(	"	9940	"	,	"	Læsø	"	)	);
         arrayList.add(new PostInfo		(	"	9970	"	,	"	Strandby	"	)	);
-        arrayList.add(new PostInfo		(	"	9981	"	,	"	Jerup	"	)	);
-        arrayList.add(new PostInfo		(	"	9982	"	,	"	Ålbæk	"	)	);
+        arrayList.add(new PostInfo		(	"	9981	"	,	"Jerup"	)	);
+        arrayList.add(new PostInfo		(	"	9982	"	,	"Ålbæk"	)	);
         arrayList.add(new PostInfo		("9990","Skagen")	);
 
 
